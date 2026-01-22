@@ -1,0 +1,17 @@
+{
+	id: "270af4c9-ca13-3097-9243-91a9a5da3c92"
+	type: "player"
+	player_name: "nikusv2_"
+	ranks: {
+		270af4c9-ca13-3097-9243-91a9a5da3c92: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "nikusv2_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

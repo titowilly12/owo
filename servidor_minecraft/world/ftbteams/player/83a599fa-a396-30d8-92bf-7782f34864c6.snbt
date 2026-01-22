@@ -1,0 +1,17 @@
+{
+	id: "83a599fa-a396-30d8-92bf-7782f34864c6"
+	type: "player"
+	player_name: "Rexmilo"
+	ranks: {
+		83a599fa-a396-30d8-92bf-7782f34864c6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Rexmilo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

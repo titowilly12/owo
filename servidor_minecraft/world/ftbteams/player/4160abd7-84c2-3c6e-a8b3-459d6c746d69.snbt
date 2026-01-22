@@ -1,0 +1,17 @@
+{
+	id: "4160abd7-84c2-3c6e-a8b3-459d6c746d69"
+	type: "player"
+	player_name: "Tetowele"
+	ranks: {
+		4160abd7-84c2-3c6e-a8b3-459d6c746d69: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tetowele"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

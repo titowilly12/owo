@@ -1,0 +1,17 @@
+{
+	id: "d7b548a9-f0a1-34e9-9688-c1616d727bd6"
+	type: "player"
+	player_name: "fandangolol"
+	ranks: {
+		d7b548a9-f0a1-34e9-9688-c1616d727bd6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "fandangolol"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

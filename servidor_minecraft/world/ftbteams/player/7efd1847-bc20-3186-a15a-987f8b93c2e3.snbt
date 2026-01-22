@@ -1,0 +1,17 @@
+{
+	id: "7efd1847-bc20-3186-a15a-987f8b93c2e3"
+	type: "player"
+	player_name: "ILEO0"
+	ranks: {
+		7efd1847-bc20-3186-a15a-987f8b93c2e3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ILEO0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

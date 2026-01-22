@@ -1,0 +1,17 @@
+{
+	id: "970716fa-dab4-39a8-88f0-ad17c339e0c1"
+	type: "player"
+	player_name: "manuelitop"
+	ranks: {
+		970716fa-dab4-39a8-88f0-ad17c339e0c1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "manuelitop"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

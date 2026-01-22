@@ -1,0 +1,17 @@
+{
+	id: "b8ccce96-c699-316b-86ea-02864658d0f4"
+	type: "player"
+	player_name: "Brick_123"
+	ranks: {
+		b8ccce96-c699-316b-86ea-02864658d0f4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Brick_123"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FBFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

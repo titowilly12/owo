@@ -1,0 +1,273 @@
+[00:01:47] [Server thread/INFO]: [Handshake] Sending channel query
+[00:01:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[00:01:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[00:01:48] [Server thread/INFO]: fandangolol[/10.242.137.231:57215] logged in with entity id 272575 at (468.54792563248685, 66.0, 1029.9908514874578)
+[00:01:48] [Server thread/INFO]: Sending server config values to client
+[00:01:48] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[00:01:48] [Server thread/INFO]: Loading config from file...
+[00:01:48] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:01:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:01:48] [Server thread/INFO]: fandangolol joined the game
+[00:01:48] [Server thread/INFO]: Loading Configs for Sortilege
+[00:01:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:01:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:01:48] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:01:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:01:49] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[00:01:49] [Server thread/INFO]: PLAYER_JOIN
+[00:01:49] [Server thread/INFO]: add_player wand
+[00:01:49] [Server thread/INFO]: config sent
+[00:01:56] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:02:44] [Netty Epoll Server IO #6/INFO]: Channel update: fandangolol -> default
+[00:02:44] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[00:02:46] [Server thread/INFO]: fandangolol lost connection: Timed out
+[00:02:46] [Server thread/INFO]: fandangolol left the game
+[00:02:46] [Server thread/INFO]: remove player wand
+[00:02:46] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[00:02:46] [Server thread/WARN]: handleDisconnection() called twice
+[00:03:16] [Server thread/INFO]: [Handshake] Sending channel query
+[00:03:16] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[00:03:16] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[00:03:16] [Server thread/INFO]: fandangolol[/10.242.137.231:57221] logged in with entity id 273015 at (468.54792563248685, 66.0, 1029.9908514874578)
+[00:03:16] [Server thread/INFO]: Sending server config values to client
+[00:03:16] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[00:03:16] [Server thread/INFO]: Loading config from file...
+[00:03:16] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:03:16] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:03:16] [Server thread/INFO]: fandangolol joined the game
+[00:03:16] [Server thread/INFO]: Loading Configs for Sortilege
+[00:03:16] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:03:16] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:03:16] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:03:16] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:03:16] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[00:03:17] [Server thread/INFO]: PLAYER_JOIN
+[00:03:17] [Server thread/INFO]: add_player wand
+[00:03:17] [Server thread/INFO]: config sent
+[00:03:21] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:03:25] [Netty Epoll Server IO #0/INFO]: Channel update: fandangolol -> default
+[00:03:25] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[00:03:45] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[00:04:17] [Server thread/INFO]: [Handshake] Sending channel query
+[00:04:17] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:04:17] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:04:17] [Server thread/INFO]: ZomHeldD[/10.242.167.97:53850] logged in with entity id 273276 at (-295.370828104077, 66.0, 1647.3612049842973)
+[00:04:17] [Server thread/INFO]: Sending server config values to client
+[00:04:17] [Server thread/INFO]: Syncing config to ZomHeldD (4b67eebd-a843-372e-9601-612ab047e8c8)
+[00:04:17] [Server thread/INFO]: Loading config from file...
+[00:04:17] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:04:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:04:17] [Server thread/INFO]: ZomHeldD joined the game
+[00:04:17] [Server thread/INFO]: Loading Configs for Sortilege
+[00:04:17] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:04:17] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:04:17] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:04:17] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:04:17] [Server thread/INFO]: Updating all forceload tickets for 4b67eebd-a843-372e-9601-612ab047e8c8
+[00:04:17] [Server thread/INFO]: PLAYER_JOIN
+[00:04:17] [Server thread/INFO]: add_player wand
+[00:04:17] [Server thread/INFO]: config sent
+[00:04:19] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:04:19] [Netty Epoll Server IO #1/INFO]: Channel update: ZomHeldD -> default
+[00:04:19] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player ZomHeldD. Claiming: GRAVE / Robbing: INVENTORY
+[00:04:20] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of ZomHeldD accepted server config.
+[00:06:50] [Server thread/INFO]: [Handshake] Sending channel query
+[00:06:51] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[00:06:51] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[00:06:51] [Server thread/INFO]: nikusv2_[/10.242.130.62:62827] logged in with entity id 274649 at (945.3900205959611, 64.0, 959.7644135514798)
+[00:06:51] [Server thread/INFO]: Sending server config values to client
+[00:06:51] [Server thread/INFO]: Syncing config to nikusv2_ (270af4c9-ca13-3097-9243-91a9a5da3c92)
+[00:06:51] [Server thread/INFO]: Loading config from file...
+[00:06:51] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:06:51] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:06:51] [Server thread/INFO]: nikusv2_ joined the game
+[00:06:51] [Server thread/INFO]: Loading Configs for Sortilege
+[00:06:51] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:06:51] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:06:51] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:06:51] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:06:51] [Server thread/INFO]: Updating all forceload tickets for 270af4c9-ca13-3097-9243-91a9a5da3c92
+[00:06:51] [Server thread/INFO]: PLAYER_JOIN
+[00:06:51] [Server thread/INFO]: add_player wand
+[00:06:51] [Server thread/INFO]: config sent
+[00:06:54] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[00:06:55] [Netty Epoll Server IO #3/INFO]: Channel update: nikusv2_ -> default
+[00:06:55] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player nikusv2_. Claiming: GRAVE / Robbing: INVENTORY
+[00:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[00:07:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of nikusv2_ accepted server config.
+[00:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[00:07:49] [Server thread/INFO]: nikusv2_ lost connection: Timed out
+[00:07:49] [Server thread/INFO]: nikusv2_ left the game
+[00:07:49] [Server thread/INFO]: remove player wand
+[00:07:49] [Server thread/INFO]: Updating all forceload tickets for 270af4c9-ca13-3097-9243-91a9a5da3c92
+[00:07:49] [Server thread/WARN]: handleDisconnection() called twice
+[00:07:49] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:08:02] [Server thread/INFO]: [Handshake] Sending channel query
+[00:09:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@23809cb8[id=<null>,name=nikusv2_,properties={},legacy=false] (/10.242.130.62:62865) lost connection: Disconnected
+[00:10:08] [Server thread/INFO]: [Handshake] Sending channel query
+[00:10:08] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:10:08] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:10:08] [Server thread/INFO]: nikusv2_[/10.242.130.62:62936] logged in with entity id 276431 at (945.3900205959611, 64.0, 959.7644135514798)
+[00:10:08] [Server thread/INFO]: Sending server config values to client
+[00:10:08] [Server thread/INFO]: Syncing config to nikusv2_ (270af4c9-ca13-3097-9243-91a9a5da3c92)
+[00:10:08] [Server thread/INFO]: Loading config from file...
+[00:10:08] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:10:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:10:08] [Server thread/INFO]: nikusv2_ joined the game
+[00:10:08] [Server thread/INFO]: Loading Configs for Sortilege
+[00:10:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:10:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:10:08] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:10:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:10:09] [Server thread/INFO]: Updating all forceload tickets for 270af4c9-ca13-3097-9243-91a9a5da3c92
+[00:10:09] [Server thread/INFO]: PLAYER_JOIN
+[00:10:09] [Server thread/INFO]: add_player wand
+[00:10:09] [Server thread/INFO]: config sent
+[00:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[00:10:17] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:10:17] [Netty Epoll Server IO #7/INFO]: Channel update: nikusv2_ -> default
+[00:10:17] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player nikusv2_. Claiming: GRAVE / Robbing: INVENTORY
+[00:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
+[00:10:43] [Server thread/INFO]: [Tetowele: Teleported Tetowele to -1238.500000, 64.500000, 2323.500000]
+[00:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[00:10:59] [Worker-Main-351/WARN]: Tried to access a block entity before it was created. class_2338{x=-1401, y=-12, z=2414}
+[00:11:05] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of nikusv2_ accepted server config.
+[00:11:06] [Server thread/INFO]: nikusv2_ lost connection: Timed out
+[00:11:06] [Server thread/INFO]: nikusv2_ left the game
+[00:11:06] [Server thread/INFO]: remove player wand
+[00:11:06] [Server thread/INFO]: Updating all forceload tickets for 270af4c9-ca13-3097-9243-91a9a5da3c92
+[00:11:06] [Server thread/WARN]: handleDisconnection() called twice
+[00:11:06] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8332ms or 166 ticks behind
+[00:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3890ms or 77 ticks behind
+[00:11:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[00:11:46] [Server thread/INFO]: [Handshake] Sending channel query
+[00:11:46] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:11:46] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:11:47] [Server thread/INFO]: nikusv2_[/10.242.130.62:34198] logged in with entity id 278029 at (945.3900205959611, 64.0, 959.7644135514798)
+[00:11:47] [Server thread/INFO]: Sending server config values to client
+[00:11:47] [Server thread/INFO]: Syncing config to nikusv2_ (270af4c9-ca13-3097-9243-91a9a5da3c92)
+[00:11:47] [Server thread/INFO]: Loading config from file...
+[00:11:47] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:11:47] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:11:47] [Server thread/INFO]: nikusv2_ joined the game
+[00:11:47] [Server thread/INFO]: Loading Configs for Sortilege
+[00:11:47] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:11:47] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:11:47] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:11:47] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:11:47] [Server thread/INFO]: Updating all forceload tickets for 270af4c9-ca13-3097-9243-91a9a5da3c92
+[00:11:47] [Server thread/INFO]: PLAYER_JOIN
+[00:11:47] [Server thread/INFO]: add_player wand
+[00:11:47] [Server thread/INFO]: config sent
+[00:11:50] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:11:50] [Netty Epoll Server IO #1/INFO]: Channel update: nikusv2_ -> default
+[00:11:50] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player nikusv2_. Claiming: GRAVE / Robbing: INVENTORY
+[00:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6282ms or 125 ticks behind
+[00:12:11] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of nikusv2_ accepted server config.
+[00:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6973ms or 139 ticks behind
+[00:12:29] [Server thread/INFO]: <nikusv2_> A
+[00:12:32] [Server thread/INFO]: <nikusv2_> UWU
+[00:12:37] [Server thread/INFO]: [Tetowele: Teleported Tetowele to 471.500000, 72.500000, 1060.500000]
+[00:12:47] [Server thread/INFO]: <nikusv2_> e
+[00:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4624ms or 92 ticks behind
+[00:12:52] [Server thread/INFO]: <nikusv2_> ME CARGOOOOOOOOOOOOO
+[00:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[00:13:18] [Server thread/INFO]: <nikusv2_> ME CARGOOOOOOOOO
+[00:13:23] [Server thread/INFO]: <Tetowele> barto donde estan los aldeanos de encantamientos?
+[00:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[00:13:31] [Server thread/INFO]: <nikusv2_> en su casa
+[00:13:32] [Server thread/INFO]: fandangolol lost connection: Timed out
+[00:13:32] [Server thread/INFO]: fandangolol left the game
+[00:13:32] [Server thread/INFO]: remove player wand
+[00:13:32] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[00:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:13:48] [Server thread/INFO]: nikusv2_ has made the advancement [When in Rome]
+[00:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:15:03] [Server thread/INFO]: <nikusv2_> e
+[00:15:04] [Server thread/INFO]: nikusv2_ lost connection: Disconnected
+[00:15:04] [Server thread/INFO]: nikusv2_ left the game
+[00:15:04] [Server thread/INFO]: remove player wand
+[00:15:04] [Server thread/INFO]: Updating all forceload tickets for 270af4c9-ca13-3097-9243-91a9a5da3c92
+[00:16:52] [Server thread/WARN]: Tetowele moved wrongly!
+[00:16:59] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tetowele accepted server config.
+[00:17:00] [Worker-Main-351/INFO]: [betternether] BBox:class_3341{minX=282, minY=22, minZ=1066, maxX=438, maxY=96, maxZ=1222}
+[00:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4037ms or 80 ticks behind
+[00:21:46] [Server thread/INFO]: Tetowele has made the advancement [Downer]
+[00:23:43] [Server thread/INFO]: <ZomHeldD> a la mrd tito y su casa?
+[00:25:20] [Server thread/INFO]: <ZomHeldD> er tito
+[00:25:28] [Server thread/INFO]: <ZomHeldD> eo
+[01:05:17] [Worker-Main-351/INFO]: [betternether] BBox:class_3341{minX=218, minY=22, minZ=346, maxX=406, maxY=96, maxZ=534}
+[01:07:42] [Server thread/INFO]: Tetowele lost connection: Disconnected
+[01:07:42] [Server thread/INFO]: Tetowele left the game
+[01:07:42] [Server thread/INFO]: remove player wand
+[01:07:42] [Server thread/INFO]: Updating all forceload tickets for 4160abd7-84c2-3c6e-a8b3-459d6c746d69
+[01:11:18] [Server thread/INFO]: ZomHeldD lost connection: Disconnected
+[01:11:18] [Server thread/INFO]: ZomHeldD left the game
+[01:11:18] [Server thread/INFO]: remove player wand
+[01:11:18] [Server thread/INFO]: Updating all forceload tickets for 4b67eebd-a843-372e-9601-612ab047e8c8
+[01:16:12] [Server thread/INFO]: Stopping the server
+[01:16:12] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[01:16:12] [Server thread/INFO]: Resetting environment controller...
+[01:16:12] [Server thread/INFO]: Stopping server
+[01:16:12] [Server thread/INFO]: Saving players
+[01:16:12] [Server thread/INFO]: Saving worlds
+[01:16:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:vaaz_volcano
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:cinderstone_depths
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/spellbladenext:glassocean
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:16:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[01:16:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:16:14] [Server thread/INFO]: Stopping IO worker...
+[01:16:14] [Server thread/INFO]: Stopped IO worker!

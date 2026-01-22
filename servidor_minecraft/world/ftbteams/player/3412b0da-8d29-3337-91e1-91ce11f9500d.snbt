@@ -1,0 +1,17 @@
+{
+	id: "3412b0da-8d29-3337-91e1-91ce11f9500d"
+	type: "player"
+	player_name: "Talidor"
+	ranks: {
+		3412b0da-8d29-3337-91e1-91ce11f9500d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Talidor"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

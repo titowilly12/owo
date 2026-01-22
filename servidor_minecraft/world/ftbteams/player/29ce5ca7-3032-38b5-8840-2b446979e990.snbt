@@ -1,0 +1,17 @@
+{
+	id: "29ce5ca7-3032-38b5-8840-2b446979e990"
+	type: "player"
+	player_name: "Danippj"
+	ranks: {
+		29ce5ca7-3032-38b5-8840-2b446979e990: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Danippj"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
